@@ -1,0 +1,511 @@
+Set number,Set name,Box item ID,Noted box ID,Recipe enum,Members,Component,Item ID,Noted item ID,Quantity
+1,Dwarf cannon set,12863,12864,1004,True,Cannon base,6,7,1
+1,Dwarf cannon set,12863,12864,1004,True,Cannon stand,8,9,1
+1,Dwarf cannon set,12863,12864,1004,True,Cannon barrels,10,11,1
+1,Dwarf cannon set,12863,12864,1004,True,Cannon furnace,12,13,1
+2,Green dragonhide set,12865,12866,1005,False,Green d'hide body,1135,1136,1
+2,Green dragonhide set,12865,12866,1005,False,Green d'hide chaps,1099,1100,1
+2,Green dragonhide set,12865,12866,1005,False,Green d'hide vambraces,1065,1066,1
+3,Blue dragonhide set,12867,12868,1006,True,Blue d'hide body,2499,2500,1
+3,Blue dragonhide set,12867,12868,1006,True,Blue d'hide chaps,2493,2494,1
+3,Blue dragonhide set,12867,12868,1006,True,Blue d'hide vambraces,2487,2488,1
+4,Red dragonhide set,12869,12870,1007,True,Red d'hide body,2501,2502,1
+4,Red dragonhide set,12869,12870,1007,True,Red d'hide chaps,2495,2496,1
+4,Red dragonhide set,12869,12870,1007,True,Red d'hide vambraces,2489,2490,1
+5,Black dragonhide set,12871,12872,1008,True,Black d'hide body,2503,2504,1
+5,Black dragonhide set,12871,12872,1008,True,Black d'hide chaps,2497,2498,1
+5,Black dragonhide set,12871,12872,1008,True,Black d'hide vambraces,2491,2492,1
+6,Ahrim's armour set,12881,12882,1023,True,Ahrim's hood,4708,4709,1
+6,Ahrim's armour set,12881,12882,1023,True,Ahrim's robetop,4712,4713,1
+6,Ahrim's armour set,12881,12882,1023,True,Ahrim's robeskirt,4714,4715,1
+6,Ahrim's armour set,12881,12882,1023,True,Ahrim's staff,4710,4711,1
+7,Dharok's armour set,12877,12878,1024,True,Dharok's helm,4716,4717,1
+7,Dharok's armour set,12877,12878,1024,True,Dharok's platebody,4720,4721,1
+7,Dharok's armour set,12877,12878,1024,True,Dharok's platelegs,4722,4723,1
+7,Dharok's armour set,12877,12878,1024,True,Dharok's greataxe,4718,4719,1
+8,Guthan's armour set,12873,12874,1025,True,Guthan's helm,4724,4725,1
+8,Guthan's armour set,12873,12874,1025,True,Guthan's platebody,4728,4729,1
+8,Guthan's armour set,12873,12874,1025,True,Guthan's chainskirt,4730,4731,1
+8,Guthan's armour set,12873,12874,1025,True,Guthan's warspear,4726,4727,1
+9,Karil's armour set,12883,12884,1026,True,Karil's coif,4732,4733,1
+9,Karil's armour set,12883,12884,1026,True,Karil's leathertop,4736,4737,1
+9,Karil's armour set,12883,12884,1026,True,Karil's leatherskirt,4738,4739,1
+9,Karil's armour set,12883,12884,1026,True,Karil's crossbow,4734,4735,1
+10,Torag's armour set,12879,12880,1027,True,Torag's helm,4745,4746,1
+10,Torag's armour set,12879,12880,1027,True,Torag's platebody,4749,4750,1
+10,Torag's armour set,12879,12880,1027,True,Torag's platelegs,4751,4752,1
+10,Torag's armour set,12879,12880,1027,True,Torag's hammers,4747,4748,1
+11,Verac's armour set,12875,12876,1028,True,Verac's helm,4753,4754,1
+11,Verac's armour set,12875,12876,1028,True,Verac's brassard,4757,4758,1
+11,Verac's armour set,12875,12876,1028,True,Verac's plateskirt,4759,4760,1
+11,Verac's armour set,12875,12876,1028,True,Verac's flail,4755,4756,1
+12,Combat potion set,13064,13065,1087,True,Attack potion(4),2428,2429,1
+12,Combat potion set,13064,13065,1087,True,Defence potion(4),2432,2433,1
+12,Combat potion set,13064,13065,1087,True,Strength potion(4),113,114,1
+13,Super potion set,13066,13067,1088,True,Super attack(4),2436,2437,1
+13,Super potion set,13066,13067,1088,True,Super defence(4),2442,2443,1
+13,Super potion set,13066,13067,1088,True,Super strength(4),2440,2441,1
+14,Bronze set (lg),12960,12961,1035,False,Bronze full helm,1155,1156,1
+14,Bronze set (lg),12960,12961,1035,False,Bronze platebody,1117,1118,1
+14,Bronze set (lg),12960,12961,1035,False,Bronze platelegs,1075,1076,1
+14,Bronze set (lg),12960,12961,1035,False,Bronze kiteshield,1189,1190,1
+15,Bronze set (sk),12962,12963,1036,False,Bronze full helm,1155,1156,1
+15,Bronze set (sk),12962,12963,1036,False,Bronze platebody,1117,1118,1
+15,Bronze set (sk),12962,12963,1036,False,Bronze plateskirt,1087,1088,1
+15,Bronze set (sk),12962,12963,1036,False,Bronze kiteshield,1189,1190,1
+16,Iron set (lg),12972,12973,1041,False,Iron full helm,1153,1154,1
+16,Iron set (lg),12972,12973,1041,False,Iron platebody,1115,1116,1
+16,Iron set (lg),12972,12973,1041,False,Iron platelegs,1067,1068,1
+16,Iron set (lg),12972,12973,1041,False,Iron kiteshield,1191,1192,1
+17,Iron set (sk),12974,12975,1042,False,Iron full helm,1153,1154,1
+17,Iron set (sk),12974,12975,1042,False,Iron platebody,1115,1116,1
+17,Iron set (sk),12974,12975,1042,False,Iron plateskirt,1081,1082,1
+17,Iron set (sk),12974,12975,1042,False,Iron kiteshield,1191,1192,1
+18,Steel set (lg),12984,12985,1047,False,Steel full helm,1157,1158,1
+18,Steel set (lg),12984,12985,1047,False,Steel platebody,1119,1120,1
+18,Steel set (lg),12984,12985,1047,False,Steel platelegs,1069,1070,1
+18,Steel set (lg),12984,12985,1047,False,Steel kiteshield,1193,1194,1
+19,Steel set (sk),12986,12987,1048,False,Steel full helm,1157,1158,1
+19,Steel set (sk),12986,12987,1048,False,Steel platebody,1119,1120,1
+19,Steel set (sk),12986,12987,1048,False,Steel plateskirt,1083,1084,1
+19,Steel set (sk),12986,12987,1048,False,Steel kiteshield,1193,1194,1
+20,Black set (lg),12988,12989,1049,False,Black full helm,1165,1166,1
+20,Black set (lg),12988,12989,1049,False,Black platebody,1125,1126,1
+20,Black set (lg),12988,12989,1049,False,Black platelegs,1077,1078,1
+20,Black set (lg),12988,12989,1049,False,Black kiteshield,1195,1196,1
+21,Black set (sk),12990,12991,1050,False,Black full helm,1165,1166,1
+21,Black set (sk),12990,12991,1050,False,Black platebody,1125,1126,1
+21,Black set (sk),12990,12991,1050,False,Black plateskirt,1089,1090,1
+21,Black set (sk),12990,12991,1050,False,Black kiteshield,1195,1196,1
+22,Mithril set (lg),13000,13001,1055,False,Mithril full helm,1159,1160,1
+22,Mithril set (lg),13000,13001,1055,False,Mithril platebody,1121,1122,1
+22,Mithril set (lg),13000,13001,1055,False,Mithril platelegs,1071,1072,1
+22,Mithril set (lg),13000,13001,1055,False,Mithril kiteshield,1197,1198,1
+23,Mithril set (sk),13002,13003,1056,False,Mithril full helm,1159,1160,1
+23,Mithril set (sk),13002,13003,1056,False,Mithril platebody,1121,1122,1
+23,Mithril set (sk),13002,13003,1056,False,Mithril plateskirt,1085,1086,1
+23,Mithril set (sk),13002,13003,1056,False,Mithril kiteshield,1197,1198,1
+24,Adamant set (lg),13012,13013,1061,False,Adamant full helm,1161,1162,1
+24,Adamant set (lg),13012,13013,1061,False,Adamant platebody,1123,1124,1
+24,Adamant set (lg),13012,13013,1061,False,Adamant platelegs,1073,1074,1
+24,Adamant set (lg),13012,13013,1061,False,Adamant kiteshield,1199,1200,1
+25,Adamant set (sk),13014,13015,1062,False,Adamant full helm,1161,1162,1
+25,Adamant set (sk),13014,13015,1062,False,Adamant platebody,1123,1124,1
+25,Adamant set (sk),13014,13015,1062,False,Adamant plateskirt,1091,1092,1
+25,Adamant set (sk),13014,13015,1062,False,Adamant kiteshield,1199,1200,1
+26,Rune armour set (lg),13024,13025,1067,False,Rune full helm,1163,1164,1
+26,Rune armour set (lg),13024,13025,1067,False,Rune platebody,1127,1128,1
+26,Rune armour set (lg),13024,13025,1067,False,Rune platelegs,1079,1080,1
+26,Rune armour set (lg),13024,13025,1067,False,Rune kiteshield,1201,1202,1
+27,Rune armour set (sk),13026,13027,1068,False,Rune full helm,1163,1164,1
+27,Rune armour set (sk),13026,13027,1068,False,Rune platebody,1127,1128,1
+27,Rune armour set (sk),13026,13027,1068,False,Rune plateskirt,1093,1094,1
+27,Rune armour set (sk),13026,13027,1068,False,Rune kiteshield,1201,1202,1
+28,Dragon armour set (lg),21882,21883,1611,True,Dragon full helm,11335,11336,1
+28,Dragon armour set (lg),21882,21883,1611,True,Dragon platebody,21892,21893,1
+28,Dragon armour set (lg),21882,21883,1611,True,Dragon platelegs,4087,4088,1
+28,Dragon armour set (lg),21882,21883,1611,True,Dragon kiteshield,21895,21896,1
+29,Dragon armour set (sk),21885,21886,1612,True,Dragon full helm,11335,11336,1
+29,Dragon armour set (sk),21885,21886,1612,True,Dragon platebody,21892,21893,1
+29,Dragon armour set (sk),21885,21886,1612,True,Dragon plateskirt,4585,4586,1
+29,Dragon armour set (sk),21885,21886,1612,True,Dragon kiteshield,21895,21896,1
+30,Bronze trimmed set (lg),12964,12965,1037,False,Bronze full helm (t),12221,12222,1
+30,Bronze trimmed set (lg),12964,12965,1037,False,Bronze platebody (t),12215,12216,1
+30,Bronze trimmed set (lg),12964,12965,1037,False,Bronze platelegs (t),12217,12218,1
+30,Bronze trimmed set (lg),12964,12965,1037,False,Bronze kiteshield (t),12223,12224,1
+31,Bronze trimmed set (sk),12966,12967,1038,False,Bronze full helm (t),12221,12222,1
+31,Bronze trimmed set (sk),12966,12967,1038,False,Bronze platebody (t),12215,12216,1
+31,Bronze trimmed set (sk),12966,12967,1038,False,Bronze plateskirt (t),12219,12220,1
+31,Bronze trimmed set (sk),12966,12967,1038,False,Bronze kiteshield (t),12223,12224,1
+32,Bronze gold-trimmed set (lg),12968,12969,1039,False,Bronze full helm (g),12211,12212,1
+32,Bronze gold-trimmed set (lg),12968,12969,1039,False,Bronze platebody (g),12205,12206,1
+32,Bronze gold-trimmed set (lg),12968,12969,1039,False,Bronze platelegs (g),12207,12208,1
+32,Bronze gold-trimmed set (lg),12968,12969,1039,False,Bronze kiteshield (g),12213,12214,1
+33,Bronze gold-trimmed set (sk),12970,12971,1040,False,Bronze full helm (g),12211,12212,1
+33,Bronze gold-trimmed set (sk),12970,12971,1040,False,Bronze platebody (g),12205,12206,1
+33,Bronze gold-trimmed set (sk),12970,12971,1040,False,Bronze plateskirt (g),12209,12210,1
+33,Bronze gold-trimmed set (sk),12970,12971,1040,False,Bronze kiteshield (g),12213,12214,1
+34,Iron trimmed set (lg),12976,12977,1043,False,Iron full helm (t),12231,12232,1
+34,Iron trimmed set (lg),12976,12977,1043,False,Iron platebody (t),12225,12226,1
+34,Iron trimmed set (lg),12976,12977,1043,False,Iron platelegs (t),12227,12228,1
+34,Iron trimmed set (lg),12976,12977,1043,False,Iron kiteshield (t),12233,12234,1
+35,Iron trimmed set (sk),12978,12979,1044,False,Iron full helm (t),12231,12232,1
+35,Iron trimmed set (sk),12978,12979,1044,False,Iron platebody (t),12225,12226,1
+35,Iron trimmed set (sk),12978,12979,1044,False,Iron plateskirt (t),12229,12230,1
+35,Iron trimmed set (sk),12978,12979,1044,False,Iron kiteshield (t),12233,12234,1
+36,Iron gold-trimmed set (lg),12980,12981,1045,False,Iron full helm (g),12241,12242,1
+36,Iron gold-trimmed set (lg),12980,12981,1045,False,Iron platebody (g),12235,12236,1
+36,Iron gold-trimmed set (lg),12980,12981,1045,False,Iron platelegs (g),12237,12238,1
+36,Iron gold-trimmed set (lg),12980,12981,1045,False,Iron kiteshield (g),12243,12244,1
+37,Iron gold-trimmed set (sk),12982,12983,1046,False,Iron full helm (g),12241,12242,1
+37,Iron gold-trimmed set (sk),12982,12983,1046,False,Iron platebody (g),12235,12236,1
+37,Iron gold-trimmed set (sk),12982,12983,1046,False,Iron plateskirt (g),12239,12240,1
+37,Iron gold-trimmed set (sk),12982,12983,1046,False,Iron kiteshield (g),12243,12244,1
+38,Steel trimmed set (lg),20376,20377,1360,False,Steel full helm (t),20193,20194,1
+38,Steel trimmed set (lg),20376,20377,1360,False,Steel platebody (t),20184,20185,1
+38,Steel trimmed set (lg),20376,20377,1360,False,Steel platelegs (t),20187,20188,1
+38,Steel trimmed set (lg),20376,20377,1360,False,Steel kiteshield (t),20196,20197,1
+39,Steel trimmed set (sk),20379,20380,1361,False,Steel full helm (t),20193,20194,1
+39,Steel trimmed set (sk),20379,20380,1361,False,Steel platebody (t),20184,20185,1
+39,Steel trimmed set (sk),20379,20380,1361,False,Steel plateskirt (t),20190,20191,1
+39,Steel trimmed set (sk),20379,20380,1361,False,Steel kiteshield (t),20196,20197,1
+40,Steel gold-trimmed set (lg),20382,20383,1362,False,Steel full helm (g),20178,20179,1
+40,Steel gold-trimmed set (lg),20382,20383,1362,False,Steel platebody (g),20169,20170,1
+40,Steel gold-trimmed set (lg),20382,20383,1362,False,Steel platelegs (g),20172,20173,1
+40,Steel gold-trimmed set (lg),20382,20383,1362,False,Steel kiteshield (g),20181,20182,1
+41,Steel gold-trimmed set (sk),20385,20386,1363,False,Steel full helm (g),20178,20179,1
+41,Steel gold-trimmed set (sk),20385,20386,1363,False,Steel platebody (g),20169,20170,1
+41,Steel gold-trimmed set (sk),20385,20386,1363,False,Steel plateskirt (g),20175,20176,1
+41,Steel gold-trimmed set (sk),20385,20386,1363,False,Steel kiteshield (g),20181,20182,1
+42,Black trimmed set (lg),12992,12993,1051,False,Black full helm (t),2587,2588,1
+42,Black trimmed set (lg),12992,12993,1051,False,Black platebody (t),2583,2584,1
+42,Black trimmed set (lg),12992,12993,1051,False,Black platelegs (t),2585,2586,1
+42,Black trimmed set (lg),12992,12993,1051,False,Black kiteshield (t),2589,2590,1
+43,Black trimmed set (sk),12994,12995,1052,False,Black full helm (t),2587,2588,1
+43,Black trimmed set (sk),12994,12995,1052,False,Black platebody (t),2583,2584,1
+43,Black trimmed set (sk),12994,12995,1052,False,Black plateskirt (t),3472,3668,1
+43,Black trimmed set (sk),12994,12995,1052,False,Black kiteshield (t),2589,2590,1
+44,Black gold-trimmed set (lg),12996,12997,1053,False,Black full helm (g),2595,2596,1
+44,Black gold-trimmed set (lg),12996,12997,1053,False,Black platebody (g),2591,2592,1
+44,Black gold-trimmed set (lg),12996,12997,1053,False,Black platelegs (g),2593,2594,1
+44,Black gold-trimmed set (lg),12996,12997,1053,False,Black kiteshield (g),2597,2598,1
+45,Black gold-trimmed set (sk),12998,12999,1054,False,Black full helm (g),2595,2596,1
+45,Black gold-trimmed set (sk),12998,12999,1054,False,Black platebody (g),2591,2592,1
+45,Black gold-trimmed set (sk),12998,12999,1054,False,Black plateskirt (g),3473,3669,1
+45,Black gold-trimmed set (sk),12998,12999,1054,False,Black kiteshield (g),2597,2598,1
+46,Mithril trimmed set (lg),13004,13005,1057,False,Mithril full helm (t),12293,12294,1
+46,Mithril trimmed set (lg),13004,13005,1057,False,Mithril platebody (t),12287,12288,1
+46,Mithril trimmed set (lg),13004,13005,1057,False,Mithril platelegs (t),12289,12290,1
+46,Mithril trimmed set (lg),13004,13005,1057,False,Mithril kiteshield (t),12291,12292,1
+47,Mithril trimmed set (sk),13006,13007,1058,False,Mithril full helm (t),12293,12294,1
+47,Mithril trimmed set (sk),13006,13007,1058,False,Mithril platebody (t),12287,12288,1
+47,Mithril trimmed set (sk),13006,13007,1058,False,Mithril plateskirt (t),12295,12296,1
+47,Mithril trimmed set (sk),13006,13007,1058,False,Mithril kiteshield (t),12291,12292,1
+48,Mithril gold-trimmed set (lg),13008,13009,1059,False,Mithril full helm (g),12283,12284,1
+48,Mithril gold-trimmed set (lg),13008,13009,1059,False,Mithril platebody (g),12277,12278,1
+48,Mithril gold-trimmed set (lg),13008,13009,1059,False,Mithril platelegs (g),12279,12280,1
+48,Mithril gold-trimmed set (lg),13008,13009,1059,False,Mithril kiteshield (g),12281,12282,1
+49,Mithril gold-trimmed set (sk),13010,13011,1060,False,Mithril full helm (g),12283,12284,1
+49,Mithril gold-trimmed set (sk),13010,13011,1060,False,Mithril platebody (g),12277,12278,1
+49,Mithril gold-trimmed set (sk),13010,13011,1060,False,Mithril plateskirt (g),12285,12286,1
+49,Mithril gold-trimmed set (sk),13010,13011,1060,False,Mithril kiteshield (g),12281,12282,1
+50,Adamant trimmed set (lg),13016,13017,1063,False,Adamant full helm (t),2605,2606,1
+50,Adamant trimmed set (lg),13016,13017,1063,False,Adamant platebody (t),2599,2600,1
+50,Adamant trimmed set (lg),13016,13017,1063,False,Adamant platelegs (t),2601,2602,1
+50,Adamant trimmed set (lg),13016,13017,1063,False,Adamant kiteshield (t),2603,2604,1
+51,Adamant trimmed set (sk),13018,13019,1064,False,Adamant full helm (t),2605,2606,1
+51,Adamant trimmed set (sk),13018,13019,1064,False,Adamant platebody (t),2599,2600,1
+51,Adamant trimmed set (sk),13018,13019,1064,False,Adamant plateskirt (t),3474,3670,1
+51,Adamant trimmed set (sk),13018,13019,1064,False,Adamant kiteshield (t),2603,2604,1
+52,Adamant gold-trimmed set (lg),13020,13021,1065,False,Adamant full helm (g),2613,2614,1
+52,Adamant gold-trimmed set (lg),13020,13021,1065,False,Adamant platebody (g),2607,2608,1
+52,Adamant gold-trimmed set (lg),13020,13021,1065,False,Adamant platelegs (g),2609,2610,1
+52,Adamant gold-trimmed set (lg),13020,13021,1065,False,Adamant kiteshield (g),2611,2612,1
+53,Adamant gold-trimmed set (sk),13022,13023,1066,False,Adamant full helm (g),2613,2614,1
+53,Adamant gold-trimmed set (sk),13022,13023,1066,False,Adamant platebody (g),2607,2608,1
+53,Adamant gold-trimmed set (sk),13022,13023,1066,False,Adamant plateskirt (g),3475,3671,1
+53,Adamant gold-trimmed set (sk),13022,13023,1066,False,Adamant kiteshield (g),2611,2612,1
+54,Rune trimmed set (lg),13028,13029,1069,False,Rune full helm (t),2627,2628,1
+54,Rune trimmed set (lg),13028,13029,1069,False,Rune platebody (t),2623,2624,1
+54,Rune trimmed set (lg),13028,13029,1069,False,Rune platelegs (t),2625,2626,1
+54,Rune trimmed set (lg),13028,13029,1069,False,Rune kiteshield (t),2629,2630,1
+55,Rune trimmed set (sk),13030,13031,1070,False,Rune full helm (t),2627,2628,1
+55,Rune trimmed set (sk),13030,13031,1070,False,Rune platebody (t),2623,2624,1
+55,Rune trimmed set (sk),13030,13031,1070,False,Rune plateskirt (t),3477,3673,1
+55,Rune trimmed set (sk),13030,13031,1070,False,Rune kiteshield (t),2629,2630,1
+56,Rune gold-trimmed set (lg),13032,13033,1071,False,Rune full helm (g),2619,2620,1
+56,Rune gold-trimmed set (lg),13032,13033,1071,False,Rune platebody (g),2615,2616,1
+56,Rune gold-trimmed set (lg),13032,13033,1071,False,Rune platelegs (g),2617,2618,1
+56,Rune gold-trimmed set (lg),13032,13033,1071,False,Rune kiteshield (g),2621,2622,1
+57,Rune gold-trimmed set (sk),13034,13035,1072,False,Rune full helm (g),2619,2620,1
+57,Rune gold-trimmed set (sk),13034,13035,1072,False,Rune platebody (g),2615,2616,1
+57,Rune gold-trimmed set (sk),13034,13035,1072,False,Rune plateskirt (g),3476,3672,1
+57,Rune gold-trimmed set (sk),13034,13035,1072,False,Rune kiteshield (g),2621,2622,1
+58,Saradomin armour set (lg),13040,13041,1075,False,Saradomin full helm,2665,2666,1
+58,Saradomin armour set (lg),13040,13041,1075,False,Saradomin platebody,2661,2662,1
+58,Saradomin armour set (lg),13040,13041,1075,False,Saradomin platelegs,2663,2664,1
+58,Saradomin armour set (lg),13040,13041,1075,False,Saradomin kiteshield,2667,2668,1
+59,Saradomin armour set (sk),13042,13043,1076,False,Saradomin full helm,2665,2666,1
+59,Saradomin armour set (sk),13042,13043,1076,False,Saradomin platebody,2661,2662,1
+59,Saradomin armour set (sk),13042,13043,1076,False,Saradomin plateskirt,3479,3675,1
+59,Saradomin armour set (sk),13042,13043,1076,False,Saradomin kiteshield,2667,2668,1
+60,Zamorak armour set (lg),13044,13045,1077,False,Zamorak full helm,2657,2658,1
+60,Zamorak armour set (lg),13044,13045,1077,False,Zamorak platebody,2653,2654,1
+60,Zamorak armour set (lg),13044,13045,1077,False,Zamorak platelegs,2655,2656,1
+60,Zamorak armour set (lg),13044,13045,1077,False,Zamorak kiteshield,2659,2660,1
+61,Zamorak armour set (sk),13046,13047,1078,False,Zamorak full helm,2657,2658,1
+61,Zamorak armour set (sk),13046,13047,1078,False,Zamorak platebody,2653,2654,1
+61,Zamorak armour set (sk),13046,13047,1078,False,Zamorak plateskirt,3478,3674,1
+61,Zamorak armour set (sk),13046,13047,1078,False,Zamorak kiteshield,2659,2660,1
+62,Guthix armour set (lg),13048,13049,1079,False,Guthix full helm,2673,2674,1
+62,Guthix armour set (lg),13048,13049,1079,False,Guthix platebody,2669,2670,1
+62,Guthix armour set (lg),13048,13049,1079,False,Guthix platelegs,2671,2672,1
+62,Guthix armour set (lg),13048,13049,1079,False,Guthix kiteshield,2675,2676,1
+63,Guthix armour set (sk),13050,13051,1080,False,Guthix full helm,2673,2674,1
+63,Guthix armour set (sk),13050,13051,1080,False,Guthix platebody,2669,2670,1
+63,Guthix armour set (sk),13050,13051,1080,False,Guthix plateskirt,3480,3676,1
+63,Guthix armour set (sk),13050,13051,1080,False,Guthix kiteshield,2675,2676,1
+64,Armadyl rune armour set (lg),13052,13053,1081,False,Armadyl full helm,12476,12477,1
+64,Armadyl rune armour set (lg),13052,13053,1081,False,Armadyl platebody,12470,12471,1
+64,Armadyl rune armour set (lg),13052,13053,1081,False,Armadyl platelegs,12472,12473,1
+64,Armadyl rune armour set (lg),13052,13053,1081,False,Armadyl kiteshield,12478,12479,1
+65,Armadyl rune armour set (sk),13054,13055,1082,False,Armadyl full helm,12476,12477,1
+65,Armadyl rune armour set (sk),13054,13055,1082,False,Armadyl platebody,12470,12471,1
+65,Armadyl rune armour set (sk),13054,13055,1082,False,Armadyl plateskirt,12474,12475,1
+65,Armadyl rune armour set (sk),13054,13055,1082,False,Armadyl kiteshield,12478,12479,1
+66,Bandos rune armour set (lg),13056,13057,1083,False,Bandos full helm,12486,12487,1
+66,Bandos rune armour set (lg),13056,13057,1083,False,Bandos platebody,12480,12481,1
+66,Bandos rune armour set (lg),13056,13057,1083,False,Bandos platelegs,12482,12483,1
+66,Bandos rune armour set (lg),13056,13057,1083,False,Bandos kiteshield,12488,12489,1
+67,Bandos rune armour set (sk),13058,13059,1084,False,Bandos full helm,12486,12487,1
+67,Bandos rune armour set (sk),13058,13059,1084,False,Bandos platebody,12480,12481,1
+67,Bandos rune armour set (sk),13058,13059,1084,False,Bandos plateskirt,12484,12485,1
+67,Bandos rune armour set (sk),13058,13059,1084,False,Bandos kiteshield,12488,12489,1
+68,Ancient rune armour set (lg),13060,13061,1085,False,Ancient full helm,12466,12467,1
+68,Ancient rune armour set (lg),13060,13061,1085,False,Ancient platebody,12460,12461,1
+68,Ancient rune armour set (lg),13060,13061,1085,False,Ancient platelegs,12462,12463,1
+68,Ancient rune armour set (lg),13060,13061,1085,False,Ancient kiteshield,12468,12469,1
+69,Ancient rune armour set (sk),13062,13063,1086,False,Ancient full helm,12466,12467,1
+69,Ancient rune armour set (sk),13062,13063,1086,False,Ancient platebody,12460,12461,1
+69,Ancient rune armour set (sk),13062,13063,1086,False,Ancient plateskirt,12464,12465,1
+69,Ancient rune armour set (sk),13062,13063,1086,False,Ancient kiteshield,12468,12469,1
+70,Gilded armour set (lg),13036,13037,1073,False,Gilded full helm,3486,3487,1
+70,Gilded armour set (lg),13036,13037,1073,False,Gilded platebody,3481,3482,1
+70,Gilded armour set (lg),13036,13037,1073,False,Gilded platelegs,3483,3484,1
+70,Gilded armour set (lg),13036,13037,1073,False,Gilded kiteshield,3488,3489,1
+71,Gilded armour set (sk),13038,13039,1074,False,Gilded full helm,3486,3487,1
+71,Gilded armour set (sk),13038,13039,1074,False,Gilded platebody,3481,3482,1
+71,Gilded armour set (sk),13038,13039,1074,False,Gilded plateskirt,3485,3677,1
+71,Gilded armour set (sk),13038,13039,1074,False,Gilded kiteshield,3488,3489,1
+72,Holy book page set,13149,13150,1105,True,Saradomin page 1,3827,-1,1
+72,Holy book page set,13149,13150,1105,True,Saradomin page 2,3828,-1,1
+72,Holy book page set,13149,13150,1105,True,Saradomin page 3,3829,-1,1
+72,Holy book page set,13149,13150,1105,True,Saradomin page 4,3830,-1,1
+73,Unholy book page set,13151,13152,1106,True,Zamorak page 1,3831,-1,1
+73,Unholy book page set,13151,13152,1106,True,Zamorak page 2,3832,-1,1
+73,Unholy book page set,13151,13152,1106,True,Zamorak page 3,3833,-1,1
+73,Unholy book page set,13151,13152,1106,True,Zamorak page 4,3834,-1,1
+74,Book of Balance page set,13153,13154,1107,True,Guthix page 1,3835,-1,1
+74,Book of Balance page set,13153,13154,1107,True,Guthix page 2,3836,-1,1
+74,Book of Balance page set,13153,13154,1107,True,Guthix page 3,3837,-1,1
+74,Book of Balance page set,13153,13154,1107,True,Guthix page 4,3838,-1,1
+75,Book of War page set,13155,13156,1108,True,Bandos page 1,12613,-1,1
+75,Book of War page set,13155,13156,1108,True,Bandos page 2,12614,-1,1
+75,Book of War page set,13155,13156,1108,True,Bandos page 3,12615,-1,1
+75,Book of War page set,13155,13156,1108,True,Bandos page 4,12616,-1,1
+76,Book of Law page set,13157,13158,1109,True,Armadyl page 1,12617,-1,1
+76,Book of Law page set,13157,13158,1109,True,Armadyl page 2,12618,-1,1
+76,Book of Law page set,13157,13158,1109,True,Armadyl page 3,12619,-1,1
+76,Book of Law page set,13157,13158,1109,True,Armadyl page 4,12620,-1,1
+77,Book of Darkness page set,13159,13160,1110,True,Ancient page 1,12621,-1,1
+77,Book of Darkness page set,13159,13160,1110,True,Ancient page 2,12622,-1,1
+77,Book of Darkness page set,13159,13160,1110,True,Ancient page 3,12623,-1,1
+77,Book of Darkness page set,13159,13160,1110,True,Ancient page 4,12624,-1,1
+78,Mixed hide armour set,31166,31167,1444,True,Mixed hide top,29280,29281,1
+78,Mixed hide armour set,31166,31167,1444,True,Mixed hide legs,29283,29284,1
+78,Mixed hide armour set,31166,31167,1444,True,Mixed hide boots,29286,29287,1
+78,Mixed hide armour set,31166,31167,1444,True,Mixed hide cape,29289,29290,1
+79,Gilded dragonhide set,23124,23125,2306,False,Gilded d'hide body,23264,23265,1
+79,Gilded dragonhide set,23124,23125,2306,False,Gilded d'hide chaps,23267,23268,1
+79,Gilded dragonhide set,23124,23125,2306,False,Gilded d'hide vambraces,23261,23262,1
+80,Saradomin dragonhide set,13163,13164,1112,True,Saradomin coif,10390,10391,1
+80,Saradomin dragonhide set,13163,13164,1112,True,Saradomin d'hide body,10386,10387,1
+80,Saradomin dragonhide set,13163,13164,1112,True,Saradomin chaps,10388,10389,1
+80,Saradomin dragonhide set,13163,13164,1112,True,Saradomin bracers,10384,10385,1
+81,Zamorak dragonhide set,13161,13162,1111,True,Zamorak coif,10374,10375,1
+81,Zamorak dragonhide set,13161,13162,1111,True,Zamorak d'hide body,10370,10371,1
+81,Zamorak dragonhide set,13161,13162,1111,True,Zamorak chaps,10372,10373,1
+81,Zamorak dragonhide set,13161,13162,1111,True,Zamorak bracers,10368,10369,1
+82,Guthix dragonhide set,13165,13166,1113,True,Guthix coif,10382,10383,1
+82,Guthix dragonhide set,13165,13166,1113,True,Guthix d'hide body,10378,10379,1
+82,Guthix dragonhide set,13165,13166,1113,True,Guthix chaps,10380,10381,1
+82,Guthix dragonhide set,13165,13166,1113,True,Guthix bracers,10376,10377,1
+83,Bandos dragonhide set,13167,13168,1114,True,Bandos coif,12504,12505,1
+83,Bandos dragonhide set,13167,13168,1114,True,Bandos d'hide body,12500,12501,1
+83,Bandos dragonhide set,13167,13168,1114,True,Bandos chaps,12502,12503,1
+83,Bandos dragonhide set,13167,13168,1114,True,Bandos bracers,12498,12499,1
+84,Armadyl dragonhide set,13169,13170,1115,True,Armadyl coif,12512,12513,1
+84,Armadyl dragonhide set,13169,13170,1115,True,Armadyl d'hide body,12508,12509,1
+84,Armadyl dragonhide set,13169,13170,1115,True,Armadyl chaps,12510,12511,1
+84,Armadyl dragonhide set,13169,13170,1115,True,Armadyl bracers,12506,12507,1
+85,Ancient dragonhide set,13171,13172,1116,True,Ancient coif,12496,12497,1
+85,Ancient dragonhide set,13171,13172,1116,True,Ancient d'hide body,12492,12493,1
+85,Ancient dragonhide set,13171,13172,1116,True,Ancient chaps,12494,12495,1
+85,Ancient dragonhide set,13171,13172,1116,True,Ancient bracers,12490,12491,1
+86,Hueycoatl hide armour set,31169,31170,1445,True,Hueycoatl hide coif,30073,30074,1
+86,Hueycoatl hide armour set,31169,31170,1445,True,Hueycoatl hide body,30076,30077,1
+86,Hueycoatl hide armour set,31169,31170,1445,True,Hueycoatl hide chaps,30079,30080,1
+86,Hueycoatl hide armour set,31169,31170,1445,True,Hueycoatl hide vambraces,30082,30083,1
+87,Partyhat set,13173,13174,1117,False,Red partyhat,1038,1039,1
+87,Partyhat set,13173,13174,1117,False,Yellow partyhat,1040,1041,1
+87,Partyhat set,13173,13174,1117,False,Blue partyhat,1042,1043,1
+87,Partyhat set,13173,13174,1117,False,Green partyhat,1044,1045,1
+87,Partyhat set,13173,13174,1117,False,Purple partyhat,1046,1047,1
+87,Partyhat set,13173,13174,1117,False,White partyhat,1048,1049,1
+88,Halloween mask set,13175,13176,1118,False,Green halloween mask,1053,1054,1
+88,Halloween mask set,13175,13176,1118,False,Blue halloween mask,1055,1056,1
+88,Halloween mask set,13175,13176,1118,False,Red halloween mask,1057,1058,1
+89,Ancestral robes set,21049,21050,1670,True,Ancestral hat,21018,21019,1
+89,Ancestral robes set,21049,21050,1670,True,Ancestral robe top,21021,21022,1
+89,Ancestral robes set,21049,21050,1670,True,Ancestral robe bottom,21024,21025,1
+90,Obsidian armour set,21279,21280,899,True,Obsidian helmet,21298,21299,1
+90,Obsidian armour set,21279,21280,899,True,Obsidian platebody,21301,21302,1
+90,Obsidian armour set,21279,21280,899,True,Obsidian platelegs,21304,21305,1
+91,Justiciar armour set,22438,22439,1921,True,Justiciar faceguard,22326,22488,1
+91,Justiciar armour set,22438,22439,1921,True,Justiciar chestguard,22327,22490,1
+91,Justiciar armour set,22438,22439,1921,True,Justiciar legguards,22328,22492,1
+92,Mystic set (light),23110,23111,2293,True,Mystic hat (light),4109,4110,1
+92,Mystic set (light),23110,23111,2293,True,Mystic robe top (light),4111,4112,1
+92,Mystic set (light),23110,23111,2293,True,Mystic robe bottom (light),4113,4114,1
+92,Mystic set (light),23110,23111,2293,True,Mystic gloves (light),4115,4116,1
+92,Mystic set (light),23110,23111,2293,True,Mystic boots (light),4117,4118,1
+93,Mystic set (blue),23113,23114,2294,True,Mystic hat,4089,4090,1
+93,Mystic set (blue),23113,23114,2294,True,Mystic robe top,4091,4092,1
+93,Mystic set (blue),23113,23114,2294,True,Mystic robe bottom,4093,4094,1
+93,Mystic set (blue),23113,23114,2294,True,Mystic gloves,4095,4096,1
+93,Mystic set (blue),23113,23114,2294,True,Mystic boots,4097,4098,1
+94,Mystic set (dark),23116,23117,2295,True,Mystic hat (dark),4099,4100,1
+94,Mystic set (dark),23116,23117,2295,True,Mystic robe top (dark),4101,4102,1
+94,Mystic set (dark),23116,23117,2295,True,Mystic robe bottom (dark),4103,4104,1
+94,Mystic set (dark),23116,23117,2295,True,Mystic gloves (dark),4105,4106,1
+94,Mystic set (dark),23116,23117,2295,True,Mystic boots (dark),4107,4108,1
+95,Mystic set (dusk),23119,23120,2296,True,Mystic hat (dusk),23047,23048,1
+95,Mystic set (dusk),23119,23120,2296,True,Mystic robe top (dusk),23050,23051,1
+95,Mystic set (dusk),23119,23120,2296,True,Mystic robe bottom (dusk),23053,23054,1
+95,Mystic set (dusk),23119,23120,2296,True,Mystic gloves (dusk),23056,23057,1
+95,Mystic set (dusk),23119,23120,2296,True,Mystic boots (dusk),23059,23060,1
+96,Dragonstone armour set,23667,23668,2355,True,Dragonstone full helm,24034,24035,1
+96,Dragonstone armour set,23667,23668,2355,True,Dragonstone platebody,24037,24038,1
+96,Dragonstone armour set,23667,23668,2355,True,Dragonstone platelegs,24040,24041,1
+96,Dragonstone armour set,23667,23668,2355,True,Dragonstone boots,24043,24044,1
+96,Dragonstone armour set,23667,23668,2355,True,Dragonstone gauntlets,24046,24047,1
+97,Dagon'hai robes set,24333,24334,249,True,Dagon'hai hat,24288,24289,1
+97,Dagon'hai robes set,24333,24334,249,True,Dagon'hai robe top,24291,24292,1
+97,Dagon'hai robes set,24333,24334,249,True,Dagon'hai robe bottom,24294,24295,1
+98,Inquisitor's armour set,24488,24489,2789,True,Inquisitor's great helm,24419,24500,1
+98,Inquisitor's armour set,24488,24489,2789,True,Inquisitor's hauberk,24420,24502,1
+98,Inquisitor's armour set,24488,24489,2789,True,Inquisitor's plateskirt,24421,24504,1
+99,Masori armour set (f),27355,27356,4804,True,Masori body (f),27238,27239,1
+99,Masori armour set (f),27355,27356,4804,True,Masori chaps (f),27241,27242,1
+99,Masori armour set (f),27355,27356,4804,True,Masori mask (f),27235,27236,1
+100,Twisted relic hunter (t1) armour set,24469,24470,2785,True,Twisted boots (t1),24411,24458,1
+100,Twisted relic hunter (t1) armour set,24469,24470,2785,True,Twisted hat (t1),24405,24455,1
+100,Twisted relic hunter (t1) armour set,24469,24470,2785,True,Twisted trousers (t1),24409,24457,1
+100,Twisted relic hunter (t1) armour set,24469,24470,2785,True,Twisted coat (t1),24407,24456,1
+101,Twisted relic hunter (t2) armour set,24472,24473,2786,True,Twisted boots (t2),24403,24454,1
+101,Twisted relic hunter (t2) armour set,24472,24473,2786,True,Twisted hat (t2),24397,24451,1
+101,Twisted relic hunter (t2) armour set,24472,24473,2786,True,Twisted trousers (t2),24401,24453,1
+101,Twisted relic hunter (t2) armour set,24472,24473,2786,True,Twisted coat (t2),24399,24452,1
+102,Twisted relic hunter (t3) armour set,24475,24476,2787,True,Twisted boots (t3),24393,24449,1
+102,Twisted relic hunter (t3) armour set,24475,24476,2787,True,Twisted hat (t3),24387,24446,1
+102,Twisted relic hunter (t3) armour set,24475,24476,2787,True,Twisted trousers (t3),24391,24448,1
+102,Twisted relic hunter (t3) armour set,24475,24476,2787,True,Twisted coat (t3),24389,24447,1
+103,Trailblazer relic hunter (t1) armour set,25380,25381,3587,True,Trailblazer boots (t1),25037,25038,1
+103,Trailblazer relic hunter (t1) armour set,25380,25381,3587,True,Trailblazer hood (t1),25028,25029,1
+103,Trailblazer relic hunter (t1) armour set,25380,25381,3587,True,Trailblazer trousers (t1),25034,25035,1
+103,Trailblazer relic hunter (t1) armour set,25380,25381,3587,True,Trailblazer top (t1),25031,25032,1
+104,Trailblazer relic hunter (t2) armour set,25383,25384,3588,True,Trailblazer boots (t2),25025,25026,1
+104,Trailblazer relic hunter (t2) armour set,25383,25384,3588,True,Trailblazer hood (t2),25016,25017,1
+104,Trailblazer relic hunter (t2) armour set,25383,25384,3588,True,Trailblazer trousers (t2),25022,25023,1
+104,Trailblazer relic hunter (t2) armour set,25383,25384,3588,True,Trailblazer top (t2),25019,25020,1
+105,Trailblazer relic hunter (t3) armour set,25386,25387,3589,True,Trailblazer boots (t3),25010,25011,1
+105,Trailblazer relic hunter (t3) armour set,25386,25387,3589,True,Trailblazer hood (t3),25001,25002,1
+105,Trailblazer relic hunter (t3) armour set,25386,25387,3589,True,Trailblazer trousers (t3),25007,25008,1
+105,Trailblazer relic hunter (t3) armour set,25386,25387,3589,True,Trailblazer top (t3),25004,25005,1
+106,Shattered relic hunter (t1) armour set,26554,26555,4188,True,Shattered boots (t1),26436,26437,1
+106,Shattered relic hunter (t1) armour set,26554,26555,4188,True,Shattered hood (t1),26427,26428,1
+106,Shattered relic hunter (t1) armour set,26554,26555,4188,True,Shattered trousers (t1),26433,26434,1
+106,Shattered relic hunter (t1) armour set,26554,26555,4188,True,Shattered top (t1),26430,26431,1
+107,Shattered relic hunter (t2) armour set,26557,26558,4189,True,Shattered boots (t2),26448,26449,1
+107,Shattered relic hunter (t2) armour set,26557,26558,4189,True,Shattered hood (t2),26439,26440,1
+107,Shattered relic hunter (t2) armour set,26557,26558,4189,True,Shattered trousers (t2),26445,26446,1
+107,Shattered relic hunter (t2) armour set,26557,26558,4189,True,Shattered top (t2),26442,26443,1
+108,Shattered relic hunter (t3) armour set,26560,26561,4190,True,Shattered boots (t3),26460,26461,1
+108,Shattered relic hunter (t3) armour set,26560,26561,4190,True,Shattered hood (t3),26451,26452,1
+108,Shattered relic hunter (t3) armour set,26560,26561,4190,True,Shattered trousers (t3),26457,26458,1
+108,Shattered relic hunter (t3) armour set,26560,26561,4190,True,Shattered top (t3),26454,26455,1
+109,Trailblazer reloaded relic hunter (t1) armour set,28777,28778,5264,True,Trailblazer reloaded boots (t1),28721,28722,1
+109,Trailblazer reloaded relic hunter (t1) armour set,28777,28778,5264,True,Trailblazer reloaded headband (t1),28712,28713,1
+109,Trailblazer reloaded relic hunter (t1) armour set,28777,28778,5264,True,Trailblazer reloaded trousers (t1),28718,28719,1
+109,Trailblazer reloaded relic hunter (t1) armour set,28777,28778,5264,True,Trailblazer reloaded top (t1),28715,28716,1
+110,Trailblazer reloaded relic hunter (t2) armour set,28780,28781,5265,True,Trailblazer reloaded boots (t2),28733,28734,1
+110,Trailblazer reloaded relic hunter (t2) armour set,28780,28781,5265,True,Trailblazer reloaded headband (t2),28724,28725,1
+110,Trailblazer reloaded relic hunter (t2) armour set,28780,28781,5265,True,Trailblazer reloaded trousers (t2),28730,28731,1
+110,Trailblazer reloaded relic hunter (t2) armour set,28780,28781,5265,True,Trailblazer reloaded top (t2),28727,28728,1
+111,Trailblazer reloaded relic hunter (t3) armour set,28783,28784,5266,True,Trailblazer reloaded boots (t3),28745,28746,1
+111,Trailblazer reloaded relic hunter (t3) armour set,28783,28784,5266,True,Trailblazer reloaded headband (t3),28736,28737,1
+111,Trailblazer reloaded relic hunter (t3) armour set,28783,28784,5266,True,Trailblazer reloaded trousers (t3),28742,28743,1
+111,Trailblazer reloaded relic hunter (t3) armour set,28783,28784,5266,True,Trailblazer reloaded top (t3),28739,28740,1
+112,Raging echoes relic hunter (t1) armour set,30331,30332,1980,True,Raging echoes boots (t1),30410,30506,1
+112,Raging echoes relic hunter (t1) armour set,30331,30332,1980,True,Raging echoes hat (t1),30404,30503,1
+112,Raging echoes relic hunter (t1) armour set,30331,30332,1980,True,Raging echoes robeskirt (t1),30408,30505,1
+112,Raging echoes relic hunter (t1) armour set,30331,30332,1980,True,Raging echoes top (t1),30406,30504,1
+113,Raging echoes relic hunter (t2) armour set,30334,30335,2738,True,Raging echoes boots (t2),30418,30510,1
+113,Raging echoes relic hunter (t2) armour set,30334,30335,2738,True,Raging echoes hat (t2),30412,30507,1
+113,Raging echoes relic hunter (t2) armour set,30334,30335,2738,True,Raging echoes robeskirt (t2),30416,30509,1
+113,Raging echoes relic hunter (t2) armour set,30334,30335,2738,True,Raging echoes top (t2),30414,30508,1
+114,Raging echoes relic hunter (t3) armour set,30337,30338,2739,True,Raging echoes boots (t3),30426,30514,1
+114,Raging echoes relic hunter (t3) armour set,30337,30338,2739,True,Raging echoes hat (t3),30420,30511,1
+114,Raging echoes relic hunter (t3) armour set,30337,30338,2739,True,Raging echoes robeskirt (t3),30424,30513,1
+114,Raging echoes relic hunter (t3) armour set,30337,30338,2739,True,Raging echoes top (t3),30422,30512,1
+115,Demonic pacts relic hunter (t1) armour set,33451,33452,5711,True,Demonic boots (t1),33269,33270,1
+115,Demonic pacts relic hunter (t1) armour set,33451,33452,5711,True,Demonic hood (t1),33260,33261,1
+115,Demonic pacts relic hunter (t1) armour set,33451,33452,5711,True,Demonic robe bottom (t1),33266,33267,1
+115,Demonic pacts relic hunter (t1) armour set,33451,33452,5711,True,Demonic robe top (t1),33263,33264,1
+116,Demonic pacts relic hunter (t2) armour set,33454,33455,5712,True,Demonic boots (t2),33281,33282,1
+116,Demonic pacts relic hunter (t2) armour set,33454,33455,5712,True,Demonic hood (t2),33272,33273,1
+116,Demonic pacts relic hunter (t2) armour set,33454,33455,5712,True,Demonic robe bottom (t2),33278,33279,1
+116,Demonic pacts relic hunter (t2) armour set,33454,33455,5712,True,Demonic robe top (t2),33275,33276,1
+117,Demonic pacts relic hunter (t3) armour set,33457,33458,5729,True,Demonic boots (t3),33293,33294,1
+117,Demonic pacts relic hunter (t3) armour set,33457,33458,5729,True,Demonic hood (t3),33284,33285,1
+117,Demonic pacts relic hunter (t3) armour set,33457,33458,5729,True,Demonic robe bottom (t3),33290,33291,1
+117,Demonic pacts relic hunter (t3) armour set,33457,33458,5729,True,Demonic robe top (t3),33287,33288,1
+118,Sunfire fanatic armour set,29424,29425,5411,True,Sunfire fanatic helm,28933,28934,1
+118,Sunfire fanatic armour set,29424,29425,5411,True,Sunfire fanatic cuirass,28936,28937,1
+118,Sunfire fanatic armour set,29424,29425,5411,True,Sunfire fanatic chausses,28939,28940,1
+119,Oathplate armour set,30744,30745,316,True,Oathplate helm,30750,30751,1
+119,Oathplate armour set,30744,30745,316,True,Oathplate chest,30753,30754,1
+119,Oathplate armour set,30744,30745,316,True,Oathplate legs,30756,30757,1
+120,Blood Moon armour set,31136,31137,1433,True,Blood Moon chestplate,29022,29023,1
+120,Blood Moon armour set,31136,31137,1433,True,Blood Moon helm,29028,29029,1
+120,Blood Moon armour set,31136,31137,1433,True,Blood Moon tassets,29025,29026,1
+120,Blood Moon armour set,31136,31137,1433,True,Dual macuahuitl,28997,28998,1
+121,Blue Moon armour set,31139,31140,1434,True,Blue Moon chestplate,29013,29014,1
+121,Blue Moon armour set,31139,31140,1434,True,Blue Moon tassets,29016,29017,1
+121,Blue Moon armour set,31139,31140,1434,True,Blue Moon helm,29019,29020,1
+121,Blue Moon armour set,31139,31140,1434,True,Blue Moon spear,28988,28989,1
+122,Eclipse Moon armour set,31142,31143,1435,True,Eclipse Moon helm,29010,29011,1
+122,Eclipse Moon armour set,31142,31143,1435,True,Eclipse Moon tassets,29007,29008,1
+122,Eclipse Moon armour set,31142,31143,1435,True,Eclipse Moon chestplate,29004,29005,1
+122,Eclipse Moon armour set,31142,31143,1435,True,Eclipse atlatl,29000,29001,1
+123,Torva armour set,31145,31146,1436,True,Torva full helm,26382,26409,1
+123,Torva armour set,31145,31146,1436,True,Torva platebody,26384,26410,1
+123,Torva armour set,31145,31146,1436,True,Torva platelegs,26386,26411,1
+124,Virtus armour set,31148,31149,1437,True,Virtus mask,26241,27896,1
+124,Virtus armour set,31148,31149,1437,True,Virtus robe top,26243,27894,1
+124,Virtus armour set,31148,31149,1437,True,Virtus robe bottom,26245,27895,1
+125,Rock-shell armour set,31151,31152,1438,True,Rock-shell helm,6128,6175,1
+125,Rock-shell armour set,31151,31152,1438,True,Rock-shell plate,6129,6176,1
+125,Rock-shell armour set,31151,31152,1438,True,Rock-shell legs,6130,6177,1
+125,Rock-shell armour set,31151,31152,1438,True,Rock-shell boots,6145,6146,1
+125,Rock-shell armour set,31151,31152,1438,True,Rock-shell gloves,6151,6152,1
+126,Skeletal armour set,31154,31155,1439,True,Skeletal helm,6137,6138,1
+126,Skeletal armour set,31154,31155,1439,True,Skeletal top,6139,6140,1
+126,Skeletal armour set,31154,31155,1439,True,Skeletal bottoms,6141,6142,1
+126,Skeletal armour set,31154,31155,1439,True,Skeletal boots,6147,6148,1
+126,Skeletal armour set,31154,31155,1439,True,Skeletal gloves,6153,6154,1
+127,Spined armour set,31157,31158,1441,True,Spined helm,6131,6132,1
+127,Spined armour set,31157,31158,1441,True,Spined body,6133,6134,1
+127,Spined armour set,31157,31158,1441,True,Spined chaps,6135,6136,1
+127,Spined armour set,31157,31158,1441,True,Spined boots,6143,6144,1
+127,Spined armour set,31157,31158,1441,True,Spined gloves,6149,6150,1
+128,Swampbark armour set,31160,31161,1442,True,Swampbark helm,25398,25399,1
+128,Swampbark armour set,31160,31161,1442,True,Swampbark body,25389,25390,1
+128,Swampbark armour set,31160,31161,1442,True,Swampbark legs,25401,25402,1
+128,Swampbark armour set,31160,31161,1442,True,Swampbark boots,25395,25396,1
+128,Swampbark armour set,31160,31161,1442,True,Swampbark gauntlets,25392,25393,1
+129,Bloodbark armour set,31163,31164,1443,True,Bloodbark helm,25413,25414,1
+129,Bloodbark armour set,31163,31164,1443,True,Bloodbark body,25404,25405,1
+129,Bloodbark armour set,31163,31164,1443,True,Bloodbark legs,25416,25417,1
+129,Bloodbark armour set,31163,31164,1443,True,Bloodbark boots,25410,25411,1
+129,Bloodbark armour set,31163,31164,1443,True,Bloodbark gauntlets,25407,25408,1

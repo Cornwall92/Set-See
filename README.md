@@ -20,11 +20,9 @@ Set See helps you pack and unpack Grand Exchange item sets. While the game's **S
 
 ## Getting started
 
-1. Open RuneLite's **Plugin Hub**, search for **Set See** and install it.
-2. Enable **Set See** in RuneLite's plugin list. Use its settings button to change the options below.
-3. Bring set components or packed set boxes in your **inventory** to a Grand Exchange clerk.
-4. Open the clerk's **Sets** interface. Use **Show all sets** if you want to inspect recipes that you cannot currently pack.
-5. Match the coloured number on an inventory item to the same number in the set list, or hover over either item for details.
+1. Bring set components or packed set boxes in your **inventory** to a Grand Exchange clerk.
+2. Open the clerk's **Sets** interface. Use **Show all sets** if you want to inspect recipes that you cannot currently pack.
+3. Match the coloured number on an inventory item to the same number in the set list, or hover over either item for details.
 
 Set See only displays its highlights and tooltips while the Sets interface is open. Banked and equipped items do not count towards a set.
 

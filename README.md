@@ -2,64 +2,115 @@
 
 ![Set See rune platebody icon](icon.png)
 
-**Author: James C · Version: 1.0.0**
+**Author: Corndwell**
 
-Set See connects the Grand Exchange Sets list to the items in your inventory. Open the GE **Sets** window to see matching colours and numbered labels around packable sets, their components, and packed boxes you own.
+Set See helps you pack and unpack Grand Exchange item sets. While the game's **Sets** window is open, matching colours and numbered labels connect each set to its loose components and packed boxes in your inventory. Hover over an item to see what you have, what is missing and how many sets you can pack.
 
-## Behaviour
+## Contents
 
-- A complete loose set and its entry in the Sets window share a colour and number. Packed boxes in your inventory use the same group identity.
-- Components shared by alternative sets show separate coloured number chips. Each recipe is evaluated independently; packing one immediately updates the others.
-- Hover over a set or component for missing pieces, required quantities, the number of sets you can pack, packed-box quantities, and shared-component information.
-- Optional incomplete highlights use **red only**, with dashed borders. They are off by default. Missing-piece tooltips remain available while they are off.
-- Owning a packed box and some incomplete loose pieces produces separate statuses: the box stays in its group colour, and the loose pieces can be red.
-- Noted items are supported. The game's current packing check requires a complete unnoted recipe or a complete noted recipe; it does not combine forms into one packable set. Stackable, non-noteable book pages are handled once.
-- Exact item IDs matter. Degraded, charged, trimmed, and ornamented variants are not silently substituted for a recipe's required item.
-- Members-only recipes are not reported as packable on free worlds.
-- Only inventory items count. Closing the Sets window, logging out, or disabling the plugin clears the overlay.
-- The game's **Show craftable sets** filter is respected. Select **Show all sets** to inspect incomplete entries hidden by that filter.
+- [Getting started](#getting-started)
+- [Reading the highlights](#reading-the-highlights)
+- [Packing a set](#packing-a-set)
+- [Unpacking a set](#unpacking-a-set)
+- [Hover information](#hover-information)
+- [Settings](#settings)
+- [Supported sets](#supported-sets)
+- [Troubleshooting](#troubleshooting)
+- [Help and credits](#help-and-credits)
 
-Colours come from a non-red palette and repeat across the catalogue; the matching number distinguishes groups with the same colour. Shared items display up to two chips, with an overflow count if future recipes add more matches. Hover for the full list.
+## Getting started
 
-Unpacking tooltips show available slots and space **estimates** for unnoted and noted contents, accounting for the consumed box and existing stacks. These are estimates, not a guarantee that the server will accept an unpack action. The plugin does not choose output forms or perform exchanges.
+1. Open RuneLite's **Plugin Hub**, search for **Set See** and install it.
+2. Enable **Set See** in RuneLite's plugin list. Use its settings button to change the options below.
+3. Bring set components or packed set boxes in your **inventory** to a Grand Exchange clerk.
+4. Open the clerk's **Sets** interface. Use **Show all sets** if you want to inspect recipes that you cannot currently pack.
+5. Match the coloured number on an inventory item to the same number in the set list, or hover over either item for details.
+
+Set See only displays its highlights and tooltips while the Sets interface is open. Banked and equipped items do not count towards a set.
+
+## Reading the highlights
+
+| Display | Meaning |
+| --- | --- |
+| Matching colour and number | The set entry, its usable loose components and any owned packed boxes belong to the same recipe. |
+| Solid coloured border | You can pack the highlighted loose components, or you own the highlighted packed box. Hover to distinguish the two. |
+| Red dashed border | You own part of an incomplete loose set. Requires **Show incomplete sets**. |
+| Two coloured number chips on an item | That item is shared by more than one recipe, such as the platelegs and plateskirt versions of rune armour. |
+| A `+` count | More matching recipes exist than the item has room to display. Hover for the complete list. |
+
+Colours repeat across the catalogue, so leave **Show matching labels** enabled to distinguish sets that share a colour. Red is reserved for incomplete sets.
+
+A packed box and leftover loose pieces have separate statuses. The box can remain highlighted in its set colour while incomplete loose pieces appear red.
+
+## Packing a set
+
+1. Put every required component in your inventory.
+2. Open **Sets** and hover over the set you want. **Can pack** shows how many complete copies you have.
+3. Use the game's normal set exchange option to pack it.
+4. The highlights and quantities update when your inventory changes.
+
+For example, a rune full helm, rune platebody, rune platelegs and rune kiteshield make **Rune armour set (lg)**. Add a rune plateskirt and both armour recipes become available. They share the helm, body and shield: packing one uses those pieces and updates the other recipe's status.
+
+### Noted items and exact variants
+
+A packable recipe needs all its noteable components in the same form: **all unnoted or all noted**. A mixture does not make one packable set. Non-noteable stackable components, such as god-book pages, are counted normally.
+
+Use the exact items listed by the recipe. Degraded, charged, trimmed or ornamented alternatives are not automatically interchangeable. A members-only recipe is not shown as packable on a free world.
+
+## Unpacking a set
+
+1. Put the packed set box in your inventory and open **Sets**.
+2. Hover over the box to see the number of boxes you own and your free inventory slots.
+3. If more space may be needed, the tooltip estimates the extra slots required for unnoted or noted contents.
+4. Use the game's normal inventory exchange option to unpack the box.
+
+Space figures are estimates for **one box**. They account for the space freed by consuming that box and existing stacks. The game determines whether the exchange is accepted and which output forms are available; Set See does not choose a form or perform the exchange for you.
+
+## Hover information
+
+With **Show component tooltips** enabled, hover over a visible set entry, component or box to see:
+
+- The recipe name and matching number.
+- The number of complete sets you can pack, including noted copies.
+- How many different component types you own.
+- Missing items and quantities for the closest noted or unnoted recipe.
+- Packed-box quantities and, when needed, unpacking space estimates.
+- Other recipes that share its components.
+- A members-world requirement where applicable.
+
+Missing-piece tooltips work even when incomplete highlights are disabled. Close any right-click menu before hovering to read a tooltip.
 
 ## Settings
 
-| Setting | Default | Purpose |
+Open the settings for **Set See** in RuneLite's plugin list.
+
+| Setting | Default | What it does |
 | --- | --- | --- |
-| Show incomplete sets | Off | Red highlights for partial loose sets |
-| Show matching labels | On | Numbered group labels alongside colours |
-| Show component tooltips | On | Missing pieces, quantities, alternatives and space estimates |
+| **Show incomplete sets** | Off | Adds red dashed highlights to partial loose sets and their owned components. |
+| **Show matching labels** | On | Adds matching recipe numbers so you can identify sets without relying on colour alone. |
+| **Show component tooltips** | On | Shows missing pieces, quantities, shared recipes and unpacking space estimates when you hover. |
 
-## Complete set catalogue
+## Supported sets
 
-The audited game cache contains **129 unique GE sets and 423 distinct component item IDs**. Its display list has 131 entries because two recipes appear twice. See the [complete catalogue](docs/CATALOGUE.md) or [item-level CSV](docs/set-catalogue.csv), including noted IDs and required quantities.
+Set See reads the set catalogue supplied by the game, including armour, god-book page, potion and other GE-exchangeable sets. New recipes are picked up automatically when the game's catalogue format remains compatible; there is no manually maintained list of supported item IDs in the plugin.
 
-At runtime, Set See reads the same cache enums as the game's GE Sets interface. It cross-checks the entire display list against the reverse box-to-recipe lookup before enabling highlights. New sets are discovered automatically while that schema remains compatible. Invalid or unavailable definitions disable highlights until the window is reopened; they are never treated as a successful partial catalogue.
+The latest catalogue review on **21 November 2026** confirmed **129 unique GE sets**, with no missing or newly added recipes. The [set catalogue](docs/CATALOGUE.md) lists the audited recipes and source details. The [item reference](docs/set-catalogue.csv) includes their exact components and quantities. These references describe that audit; the live game supplies the recipes used while you play.
 
-The included test fixture is from the Jagex cache dated **23 September 2026**, build 240. This snapshot is test data only and is not bundled into the plugin JAR. See [catalogue provenance](docs/CATALOGUE.md#provenance).
+## Troubleshooting
 
-## Build and try it
+| Problem | What to check |
+| --- | --- |
+| No highlights appear | Enable Set See, open the GE **Sets** interface and put matching components or boxes in your inventory. With the defaults, incomplete loose sets are not highlighted. |
+| An incomplete set is missing from the list | Switch the game's filter from **Show craftable sets** to **Show all sets**. |
+| I own every piece but cannot pack the set | Check the exact item variants, required quantities, noted/unnoted forms and whether the recipe needs a members world. Hover for the missing-piece explanation. |
+| An item belongs to two sets | Read its separate number chips or hover for the shared recipes. Each recipe is evaluated separately; shared pieces cannot be spent twice. |
+| My box is highlighted, but the loose pieces are not | Owning a box does not complete your leftover loose recipe. Enable incomplete highlights to see partial loose sets. |
+| Tooltips do not appear | Enable **Show component tooltips**, close the right-click menu and hover over a visible item in the Sets interface or its inventory panel. |
+| Highlights stop after a game update | Update/restart RuneLite and reopen Sets. If the game's catalogue cannot be validated, Set See hides its highlights instead of showing a partial result. Report the problem if it persists. |
+| Highlights disappear when I leave the interface | This is expected. Set See clears its display when you close Sets, log out or disable the plugin. |
 
-Use a full **JDK 17** to run Gradle. Plugin source targets Java 11, as required by RuneLite.
+## Help and credits
 
-```sh
-./gradlew clean build
-./gradlew run
-```
+Report problems or suggest improvements on the [Set See issue tracker](https://github.com/Cornwall92/Set-See/issues). For a missing or incorrect set, include its name, the exact components and note forms in your inventory, your world type and a screenshot of the Sets interface if possible.
 
-On Windows, use `gradlew.bat clean build` and `gradlew.bat run`. The run task launches the RuneLite development client with Set See loaded. Enable **Set See** in its plugin settings if necessary.
-
-For a Jagex account, follow RuneLite's [Using Jagex Accounts](https://github.com/runelite/runelite/wiki/Using-Jagex-Accounts) instructions for logging into a development client.
-
-This source release is **not yet published to Plugin Hub**. A successful build does not install it into your normal RuneLite client. Hub publication requires a public source repository, a manifest pointing to its reviewed commit, and acceptance by the RuneLite maintainers.
-
-## Validation
-
-See [TESTING.md](docs/TESTING.md) for the automated results and the short manual in-game checklist. In-game rendering and server exchange behaviour still require a human check before release.
-
-The plugin draws overlays and reads game state. It does not inject input, exchange items automatically, alter click targets, perform runtime network requests, or store player data.
-
-## Credits and licensing
-
-Plugin code: James C, BSD 2-Clause license. Gradle wrapper and project structure originate from [runelite/example-plugin](https://github.com/runelite/example-plugin); the wrapper is distributed under its upstream terms. RuneLite and Old School RuneScape are their respective owners' projects. The generated rune-style icon is an original illustration; see [artwork notes](artwork/README.md).
+Set See is maintained by **Corndwell** and distributed under the [BSD 2-Clause license](LICENSE). Project structure and the Gradle wrapper originate from [RuneLite's example plugin](https://github.com/runelite/example-plugin); upstream notices are retained. RuneLite and Old School RuneScape belong to their respective owners. The rune platebody icon is an original illustration; see the [artwork notes](artwork/README.md).

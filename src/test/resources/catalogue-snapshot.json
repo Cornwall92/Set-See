@@ -1,28 +1,28 @@
 {
   "cache": {
-    "id": 2720,
+    "id": 2772,
     "scope": "runescape",
     "game": "oldschool",
     "environment": "live",
     "language": "en",
     "builds": [
       {
-        "major": 240,
+        "major": 242,
         "minor": null
       }
     ],
-    "timestamp": "2026-09-23T14:00:06.608472Z",
+    "timestamp": "2026-11-18T14:45:05.401534Z",
     "sources": [
       "Jagex"
     ],
     "valid_indexes": 25,
     "indexes": 25,
-    "valid_groups": 117560,
-    "groups": 117560,
+    "valid_groups": 121355,
+    "groups": 121355,
     "valid_keys": 0,
     "keys": 0,
-    "size": 191258687,
-    "blocks": 438852,
+    "size": 213984386,
+    "blocks": 485351,
     "disk_store_valid": true,
     "hidden": false
   },

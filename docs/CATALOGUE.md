@@ -1,15 +1,21 @@
 # Complete GE set catalogue
 
-Audited on 25 September 2026 against the Jagex Old School RuneScape live cache dated 23 September 2026 (build 240).
+Audited on **21 November 2026** against the Jagex Old School RuneScape live cache dated **18 November 2026 (build 242)**, the latest archived live cache available at the time of the check.
 
 **129 unique sets · 423 distinct unnoted component IDs · 131 display entries.** The display list repeats Mixed hide armour set and Hueycoatl hide armour set. Each is counted once below.
 
 “Component IDs” means the exact required items; noted variants are recorded separately in [set-catalogue.csv](set-catalogue.csv). That CSV includes every recipe, component, quantity, membership flag and normal/noted box ID. A negative noted ID means the item has no noted variant.
 
+## November 2026 review
+
+No new or removed GE sets were found since the September audit. The display list, box-to-recipe lookup and all 129 recipe definitions are unchanged. All 1,080 relevant item records were decoded again: names, note links, note templates, stackability and membership still match the test fixture. The catalogue therefore remains complete at **129 unique sets and 423 distinct component IDs**; no additional recipe handling is needed.
+
+Set See discovers recipes from the live game catalogue automatically. Its test snapshot has been refreshed to the verified cache below, while retaining the matching recipe and item values.
+
 ## Provenance
 
-- [Jagex cache 2720 archived by OpenRS2](https://archive.openrs2.org/caches/runescape/2720). Metadata identifies the source as Jagex, language English, environment live.
-- [Config index](https://archive.openrs2.org/caches/runescape/2720/archives/255/groups/2.dat), [enum group](https://archive.openrs2.org/caches/runescape/2720/archives/2/groups/8.dat), and [item group](https://archive.openrs2.org/caches/runescape/2720/archives/2/groups/10.dat). The archive serves JS5 containers, which were decoded to extract the enum and item definitions.
+- [Jagex cache 2772 archived by OpenRS2](https://archive.openrs2.org/caches/runescape/2772). Metadata identifies the source as Jagex, language English, environment live.
+- [Config index](https://archive.openrs2.org/caches/runescape/2772/archives/255/groups/2.dat), [enum group](https://archive.openrs2.org/caches/runescape/2772/archives/2/groups/8.dat), and [item group](https://archive.openrs2.org/caches/runescape/2772/archives/2/groups/10.dat). The archive serves JS5 containers, which were decoded to extract the enum and item definitions.
 - [RuneLite decompiled game scripts, audited revision](https://github.com/runelite/cs2-scripts/tree/f65e33ec680120f5f957db18e7c24b8ee69e5b3d): `script8020`, `itemsets_draw` (8023), `itemsets_init` (822), and `itemsets_side_draw` (827).
 
 Enum 1033 contains the displayed recipe IDs. Each recipe enum maps key -1 to the packed box and keys 0 onwards to the components. Enum 1034 independently maps packed box IDs back to recipe IDs. The runtime loader requires both indexes to agree exactly. Duplicate display entries are deduplicated; repeated component IDs in a recipe become quantities.
@@ -20,9 +26,9 @@ Source container SHA-256 checksums:
 
 | Source | SHA-256 |
 | --- | --- |
-| config-index.dat | `31daf6aa74c64972bc89ab6b95791c785d3fac56e4fa509924c83ae64a5ff3e5` |
-| enums.dat | `ad4df0a51f07fbcc72a72e4c9c0dbbadf7ddc48f354b88da1ac30373bcba3b98` |
-| items.dat | `32ab34b4b4a547a769fbea087076519bd90fab10d85f4d5b8850fe0dfe0c55d9` |
+| config-index.dat | `95d89b0d183798df4e33da488043b43cc07c83ac68c317c89df4d67ff951589d` |
+| enums.dat | `f3b9d8e88cda6a502cc84b7a6e2281c9608b8f8e0086b2618e1288c18643c88e` |
+| items.dat | `17ad4c0a1008bc7875e48ba0e3a45df9d51cc582cc5a431d67744662ecf3355d` |
 
 ## Sets
 
